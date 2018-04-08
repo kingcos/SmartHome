@@ -1,6 +1,7 @@
 # SmartHome
 
-My smart home solution by HomeKit. 我的智能家庭解决方案。
+My smart home solution by HomeKit.
+我的智能家庭解决方案。
 
 ## 目标
 
@@ -14,6 +15,15 @@ My smart home solution by HomeKit. 我的智能家庭解决方案。
 - 100M 联通宽带
 - 墙上的插座仅有 3 个（包括空调 16A）
 
+## 情景
+
+- 到家，打开门，打开卧室灯
+- 离家，关闭门，关闭卧室灯、台灯
+- 晚上 11 点，关闭卧室灯
+- 晚上 12 点，关闭所有灯
+- 早晨 8 点，打开卧室灯
+- 学习模式，卧室灯关闭，台灯打开
+
 ## 组件
 
 ### 核心
@@ -24,6 +34,7 @@ My smart home solution by HomeKit. 我的智能家庭解决方案。
 
 - Aqara 空调伴侣（升级版）
     - 价格：179 元
+    - 其他：空调
 
 ### 灯
 
@@ -45,16 +56,9 @@ My smart home solution by HomeKit. 我的智能家庭解决方案。
 
 - 小米空气净化器 2
     - 价格：599 元
+    - 其他：温湿度传感器、空气检测仪
 
 ### 传感器
-
-#### 温湿度
-
-- Aqara 温湿度传感器
-    - 价格：69 元
-
-- 米家温湿度传感器
-    - 价格：49 元
 
 #### 屋门
 
