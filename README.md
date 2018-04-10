@@ -1,7 +1,7 @@
 # SmartHome
 
-My smart home solution by HomeKit.
-我的智能家庭解决方案。
+- My smart home solution by HomeKit.
+- 我的智能家庭解决方案。
 
 ## 目标
 
@@ -33,7 +33,7 @@ My smart home solution by HomeKit.
 ### 中枢
 
 - Aqara 空调伴侣（升级版）
-    - 价格：179 元
+    - 价格：169 元
     - 其他：空调
 
 ### 灯
@@ -48,7 +48,7 @@ My smart home solution by HomeKit.
 - Yeelight LED 灯泡（彩光版）
     - 型号：YLDP02YL
     - 固件：1.4.2_0061
-    - 价格：99 元
+    - 价格：89 元
 
 ### 电器
 
